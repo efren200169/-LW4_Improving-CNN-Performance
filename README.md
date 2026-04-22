@@ -1,4 +1,5 @@
 # -LW4_Improving-CNN-Performance 
+https://colab.research.google.com/drive/1ZfzY3-7ldoY7B196Y6LBvh8RoCzEjF_N?usp=drive_link
 
 ## GUIDE QUESTIONS (Student Explanation & Reflection)
 
